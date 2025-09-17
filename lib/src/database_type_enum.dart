@@ -1,0 +1,1 @@
+enum DatabaseTypeEnum { sqlite }
